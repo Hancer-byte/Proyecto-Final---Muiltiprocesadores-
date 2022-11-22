@@ -100,3 +100,10 @@ La operación matemática(exponencial, potencia, trigonométrica, etc.) más len
 
 #### Actividad 2.1 ESCALA DE GRISES - ROTACIÓN 
 Para esta actividad se solicitó cambiar una imagen a color en escala de grises además de a)invertir con respecto a la horizontal y b) vertical de la imagen.
+Las Imágenes que utilicé para esta actividad son las siguientes:
+
+[![1.jpg](https://i.postimg.cc/65cT58Qt/1.jpg)](https://postimg.cc/mtcTm2M5)
+##### Imagen 2.8 Dimensiones  3000 X 2076 (Imagen en formato normal)
+
+[![f4.jpg](https://i.postimg.cc/bvX77TjJ/f4.jpg)](https://postimg.cc/Bjg7D2b9)
+##### Imagen 2.8 Dimensiones  425 X 302 (Imagen en gran formato)
