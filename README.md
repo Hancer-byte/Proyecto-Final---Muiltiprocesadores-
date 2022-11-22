@@ -80,4 +80,12 @@ A continuacion se mostrará la comparativa entre mi dispositivo y la máquina vi
 
 Claramente en esta actividad la diferinecia de tiempo en muy distinta y en este caso el tiempo de CMD de mi lap fue mucho mas rápido, sin embargo los parametros se tomaron de la misma, talvez por eso el mejor tiempo es por ello.
 
+#### Actividad 1.5 VELOCIDAD (RAM-DISCO DURO- CACHE)
+
+Velocidad de lecto-escritura de la memoria RAM de su equipo mediante threads en comparación con la cache
+
+
+Velocidad de lecto-escritura del disco duro de su equipo mediante threads en comparación con la cache
+
+La operación matemática(exponencial, potencia, trigonométrica, etc.) más lenta en comparación con la suma.
 
