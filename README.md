@@ -159,7 +159,7 @@ Para la realización de esta actividad utilice las imagenes de la activdad anter
 ## 3.Resultados 
 En la proxima tabla se muestran todos los tiempos que se tardo cada programa con respecto al equipo utilizado
 
-[![tabla1.png](https://i.postimg.cc/qvN5MdY8/tabla1.png)](https://postimg.cc/bZjT34qJ)
+[![Whats-App-Image-2022-11-22-at-12-17-17-PM.jpg](https://i.postimg.cc/63TShpDH/Whats-App-Image-2022-11-22-at-12-17-17-PM.jpg)](https://postimg.cc/62JYWt6R)
 #### Tabla 1 Recopilacion de tiempos por actividades a comparar 
 
 ## 4.Conclución 
