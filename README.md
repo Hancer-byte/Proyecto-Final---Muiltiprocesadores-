@@ -103,7 +103,22 @@ Para esta actividad se solicitó cambiar una imagen a color en escala de grises 
 Las Imágenes que utilicé para esta actividad son las siguientes:
 
 [![1.jpg](https://i.postimg.cc/65cT58Qt/1.jpg)](https://postimg.cc/mtcTm2M5)
-##### Imagen 2.8 Dimensiones  3000 X 2076 (Imagen en formato normal)
+##### Imagen 2.8 Dimensiones  425 X 302 (Imagen en formato normal)
 
 [![f4.jpg](https://i.postimg.cc/bvX77TjJ/f4.jpg)](https://postimg.cc/Bjg7D2b9)
-##### Imagen 2.8 Dimensiones  425 X 302 (Imagen en gran formato)
+##### Imagen 2.9 Dimensiones  3000 X 2076 (Imagen en gran formato)
+
+
+[![a2-12.png](https://i.postimg.cc/V6hpFB4m/a2-12.png)](https://postimg.cc/R6cgStjD)
+##### Imagen 2.10 Comparación de tiempos en  la Actividad 2.1 con imagen normal
+
+[![a2-11.png](https://i.postimg.cc/26ygvXQ0/a2-11.png)](https://postimg.cc/gX9MbsBh)
+##### Imagen 2.10 Comparación de tiempos en  la Actividad 2.1 con imagen normal
+
+[![1-1.png](https://i.postimg.cc/13gkfdKM/1-1.png)](https://postimg.cc/gxWS7NQ6)
+
+[![1-2.png](https://i.postimg.cc/G3qVzR7q/1-2.png)](https://postimg.cc/6T4M5kNv)
+
+
+
+
