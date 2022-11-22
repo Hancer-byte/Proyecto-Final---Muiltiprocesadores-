@@ -116,8 +116,14 @@ Las Imágenes que utilicé para esta actividad son las siguientes:
 ##### Imagen 2.10 Comparación de tiempos en  la Actividad 2.1 con imagen normal
 
 [![1-1.png](https://i.postimg.cc/13gkfdKM/1-1.png)](https://postimg.cc/gxWS7NQ6)
+##### Imagen 2.11 Resultado de la imagen convertida a escala de grises (imagen Normal)
+[![1-1.png](https://i.postimg.cc/wMQf8JLs/1-1.png)](https://postimg.cc/8fsBL7y1)
+##### Imagen 2.12 Resultado de la imagen convertida a escala de grises (imagen en gran formato)
 
 [![1-2.png](https://i.postimg.cc/G3qVzR7q/1-2.png)](https://postimg.cc/6T4M5kNv)
+##### Imagen 2.13 Resultado de la imagen convertida a escala de grises y rotada (imagen Normal)
+[![1-2.png](https://i.postimg.cc/9FcgP8HP/1-2.png)](https://postimg.cc/7bQNwN6b)
+##### Imagen 2.14 Resultado de la imagen convertida a escala de grisesy rotada(imagen en gran formato)
 
 
 
