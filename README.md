@@ -84,8 +84,15 @@ Claramente en esta actividad la diferinecia de tiempo en muy distinta y en este 
 
 Velocidad de lecto-escritura de la memoria RAM de su equipo mediante threads en comparación con la cache
 
+[![a1-5RAM.png](https://i.postimg.cc/cC8RQsgF/a1-5RAM.png)](https://postimg.cc/zH8HNYkh)
+##### Imagen 2.5 Comparación de tiempos en  la Actividad 1.5
 
 Velocidad de lecto-escritura del disco duro de su equipo mediante threads en comparación con la cache
 
+[![a1-5DD.png](https://i.postimg.cc/gJjq2yYF/a1-5DD.png)](https://postimg.cc/CByfvqBm)
+##### Imagen 2.6 Comparación de tiempos en  la Actividad 1.5
+
 La operación matemática(exponencial, potencia, trigonométrica, etc.) más lenta en comparación con la suma.
 
+[![a1-5Math.png](https://i.postimg.cc/hjY8zJjJ/a1-5Math.png)](https://postimg.cc/G8kT6mvr)
+##### Imagen 2.7 Comparación de tiempos en  la Actividad 1.5
