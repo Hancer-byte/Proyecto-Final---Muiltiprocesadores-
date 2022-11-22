@@ -83,23 +83,27 @@ Claramente en esta actividad la diferinecia de tiempo en muy distinta y en este 
 
 #### Actividad 1.5 VELOCIDAD (RAM-DISCO DURO- CACHE)
 
+#### RAM
 Velocidad de lecto-escritura de la memoria RAM de su equipo mediante threads en comparación con la cache
 
 [![a1-5RAM.png](https://i.postimg.cc/cC8RQsgF/a1-5RAM.png)](https://postimg.cc/zH8HNYkh)
 ##### Imagen 2.5 Comparación de tiempos en  la Actividad 1.5
-
+#### DISCO DURO
 Velocidad de lecto-escritura del disco duro de su equipo mediante threads en comparación con la cache
 
 [![a1-5DD.png](https://i.postimg.cc/gJjq2yYF/a1-5DD.png)](https://postimg.cc/CByfvqBm)
 ##### Imagen 2.6 Comparación de tiempos en  la Actividad 1.5
 
+#### OPERACIóN MATEMÁTICA
 La operación matemática(exponencial, potencia, trigonométrica, etc.) más lenta en comparación con la suma.
 
 [![a1-5Math.png](https://i.postimg.cc/hjY8zJjJ/a1-5Math.png)](https://postimg.cc/G8kT6mvr)
 ##### Imagen 2.7 Comparación de tiempos en  la Actividad 1.5
 
-#### Actividad 2.1 ESCALA DE GRISES - ROTACIÓN 
+#### Actividad 2.1 ESCALA DE GRISES - ROTACIÓN (Horizontal/Vertical)
+
 Para esta actividad se solicitó cambiar una imagen a color en escala de grises además de a)invertir con respecto a la horizontal y b) vertical de la imagen.
+
 Las Imágenes que utilicé para esta actividad son las siguientes:
 
 [![1.jpg](https://i.postimg.cc/65cT58Qt/1.jpg)](https://postimg.cc/mtcTm2M5)
@@ -128,11 +132,14 @@ Las Imágenes que utilicé para esta actividad son las siguientes:
 ##### Imagen 2.14 Resultado de la imagen convertida a escala de grisesy rotada verticalmente (imagen en gran formato)
 
 [![horizontal1.png](https://i.postimg.cc/SKt3KWX0/horizontal1.png)](https://postimg.cc/SXCDTY7V)
-##### Imagen 2.13 Resultado de la imagen convertida a escala de grises y rotada horizontalmente (imagen Normal)
+##### Imagen 2.15 Resultado de la imagen convertida a escala de grises y rotada horizontalmente (imagen Normal)
 
 [![horizontal2.png](https://i.postimg.cc/524RqPLd/horizontal2.png)](https://postimg.cc/LnWDm3xN)
-##### Imagen 2.14 Resultado de la imagen convertida a escala de grisesy rotada horizontalmente (imagen en gran formato)
+##### Imagen 2.16 Resultado de la imagen convertida a escala de grisesy rotada horizontalmente (imagen en gran formato)
 
 Como se pueden dar cuenta en el tiempo de ambos servicios el tamaño de la imagen es una base fundamental.
+
+#### Actividad 2.2 Bluerring y rotación
+Para la realización de esta actividad utilice las imagenes de la activdad anterior.(Imagen 2.8 y 2.9)
 
 
