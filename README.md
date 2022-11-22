@@ -117,14 +117,22 @@ Las Imágenes que utilicé para esta actividad son las siguientes:
 
 [![1-1.png](https://i.postimg.cc/13gkfdKM/1-1.png)](https://postimg.cc/gxWS7NQ6)
 ##### Imagen 2.11 Resultado de la imagen convertida a escala de grises (imagen Normal)
-[![1-1.png](https://i.postimg.cc/wMQf8JLs/1-1.png)](https://postimg.cc/8fsBL7y1)
+
+[![2.png](https://i.postimg.cc/6qHvs5jh/2.png)](https://postimg.cc/H8yxXHCJ)
 ##### Imagen 2.12 Resultado de la imagen convertida a escala de grises (imagen en gran formato)
 
 [![1-1.png](https://i.postimg.cc/05GP2BC7/1-1.png)](https://postimg.cc/fkb685pb)
 ##### Imagen 2.13 Resultado de la imagen convertida a escala de grises y rotada verticalmente (imagen Normal)
+
 [![1-2.png](https://i.postimg.cc/28zmq7HM/1-2.png)](https://postimg.cc/QVnvw1ZJ)
 ##### Imagen 2.14 Resultado de la imagen convertida a escala de grisesy rotada verticalmente (imagen en gran formato)
 
+[![horizontal1.png](https://i.postimg.cc/SKt3KWX0/horizontal1.png)](https://postimg.cc/SXCDTY7V)
+##### Imagen 2.13 Resultado de la imagen convertida a escala de grises y rotada horizontalmente (imagen Normal)
 
+[![horizontal2.png](https://i.postimg.cc/524RqPLd/horizontal2.png)](https://postimg.cc/LnWDm3xN)
+##### Imagen 2.14 Resultado de la imagen convertida a escala de grisesy rotada horizontalmente (imagen en gran formato)
+
+Como se pueden dar cuenta en el tiempo de ambos servicios el tamaño de la imagen es una base fundamental.
 
 
