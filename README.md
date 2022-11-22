@@ -53,6 +53,31 @@ La imagenes siguientes muestran los campos que utilice para la configuración de
 ##### Imagen 2.1 Especificaciones de Máquina Virtual usada para compración
 
 ### Comparación en los tiempos de ejecución 
-#### Actividad 1.3
+
+#### Actividad 1.3 PROCESADORES MÚLTIPLES EN ACCIÓN
 Para la Actividad 1.3 se solicito realizar lo siguiente:
+
+Se ejecutó el código de muestra ("Procesadores multiples en accion") con 15 threads. 
+
+[![a1-3.png](https://i.postimg.cc/G2Mxx8SJ/a1-3.png)](https://postimg.cc/WFkZ23Vh)
+##### Imagen 2.2 Comparación de tiempos en  la Actividad 1.3
+
+En esta ejecución se puede observar que los tiempos son completamente distitos, mostrando mayor velocidad en la máquina virtual y la asignacion de threads.
+
+#### Actividad 1.4 ÁREA BAJO LA CURVA
+Para la Actividad 1.4 se solicito realizar lo siguiente:
+
+En esta actividad se busca encontrar el mejor tiempo usando un programa usando el concepto paralelización, previamente se busco el numero de pasos para encontrar el valor mas preciso para pi. Dándonos cuenta de que con 10*e^9 es el numero mas optimo y en un tiempo adecuado.
+
+En mi caso el numero optimo de threads utilizados fue 900( cabe mencionar que esto se relaizo en en CMD de mi dispositivo) 
+[![a1-41.png](https://i.postimg.cc/x10B07bX/a1-41.png)](https://postimg.cc/mt5mjmj4)
+##### Imagen 2.3 Determinación del numero optimo de threads para esta actividad
+
+A continuacion se mostrará la comparativa entre mi dispositivo y la máquina virtual.
+
+[![a1-4.png](https://i.postimg.cc/hP8HRghF/a1-4.png)](https://postimg.cc/gnJM3Cv4)
+##### Imagen 2.4 Comparación de tiempos en  la Actividad 1.4
+
+Claramente en esta actividad la diferinecia de tiempo en muy distinta y en este caso el tiempo de CMD de mi lap fue mucho mas rápido, sin embargo los parametros se tomaron de la misma, talvez por eso el mejor tiempo es por ello.
+
 
