@@ -1,4 +1,5 @@
 # - Proyecto Final Muiltiprocesadores -
+## Jorge Martínez Hernández
 ## 1. Introducción 
 Este proyecto final consta de distintas partes, las cuales integran gran parte de las actividades realizadas durante el semestre.
 EL principal punto a observar durante este prouecto es analizar la rapidez y efectividad en el procesamiento de mi equipo comparado con el de un compañero y un servicio en linea. (Google Cloud), permitiendo hacer una comparativa dependiendo las especificaciones de los mismos. 
@@ -96,3 +97,6 @@ La operación matemática(exponencial, potencia, trigonométrica, etc.) más len
 
 [![a1-5Math.png](https://i.postimg.cc/hjY8zJjJ/a1-5Math.png)](https://postimg.cc/G8kT6mvr)
 ##### Imagen 2.7 Comparación de tiempos en  la Actividad 1.5
+
+#### Actividad 2.1 ESCALA DE GRISES - ROTACIÓN 
+Para esta actividad se solicitó cambiar una imagen a color en escala de grises además de a)invertir con respecto a la horizontal y b) vertical de la imagen.
