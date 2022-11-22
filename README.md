@@ -117,7 +117,7 @@ Las Imágenes que utilicé para esta actividad son las siguientes:
 ##### Imagen 2.10 Comparación de tiempos en  la Actividad 2.1 con imagen normal
 
 [![a2-11.png](https://i.postimg.cc/26ygvXQ0/a2-11.png)](https://postimg.cc/gX9MbsBh)
-##### Imagen 2.10 Comparación de tiempos en  la Actividad 2.1 con imagen normal
+##### Imagen 2.10 Comparación de tiempos en  la Actividad 2.1 con imagen en gran  formato
 
 [![1-1.png](https://i.postimg.cc/13gkfdKM/1-1.png)](https://postimg.cc/gxWS7NQ6)
 ##### Imagen 2.11 Resultado de la imagen convertida a escala de grises (imagen Normal)
@@ -141,5 +141,18 @@ Como se pueden dar cuenta en el tiempo de ambos servicios el tamaño de la image
 
 #### Actividad 2.2 Bluerring y rotación
 Para la realización de esta actividad utilice las imagenes de la activdad anterior.(Imagen 2.8 y 2.9)
+
+[![a2-21.png](https://i.postimg.cc/ZRs5mTyb/a2-21.png)](https://postimg.cc/LYfpBFTw)
+##### Imagen 2.17 Comparación de tiempos en  la Actividad 2.2 con imagen normal
+
+[![a2-22.png](https://i.postimg.cc/2yPjq2wg/a2-22.png)](https://postimg.cc/K3Dhw7C5)
+##### Imagen 2.18 Comparación de tiempos en  la Actividad 2.1 con imagen en gran formato
+
+
+[![gif.gif](https://i.postimg.cc/9F1SmJmf/gif.gif)](https://postimg.cc/N59bb8rh)
+##### Imagen 2.19 Imagen normal con efecto blur y rotación 
+
+[![gif1.gif](https://i.postimg.cc/63sbjP0M/gif1.gif)](https://postimg.cc/Ty9chCBb)
+##### Imagen 2.19 Imagen en gran formato con efecto blur y rotación 
 
 
