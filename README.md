@@ -157,7 +157,10 @@ Para la realización de esta actividad utilice las imagenes de la activdad anter
 
 
 ## 3.Resultados 
+En la proxima tabla se muestran todos los tiempos que se tardo cada programa con respecto al equipo utilizado
 
+[![tabla1.png](https://i.postimg.cc/qvN5MdY8/tabla1.png)](https://postimg.cc/bZjT34qJ)
+#### Tabla 1 Recopilacion de tiempos por actividades a comparar 
 
 ## 4.Conclución 
-Como podemos observar en la mayoria de las pruebas realizadas los tiempos de ejecución de la Lap Top son menores, esto se debe a que al ser un equipo con caracteristicas superiores los procesos ejecutados son más rapidos a diferencia de un servicio en la nube que depende de la red y la configuración que se le dio a este. Esto es lo esperado por lo que podemos decir que los resultados son esperados y en caso de que no ocurriera esto probablemnte sea porque el equipo tiene más procesos en ejcución.
+Como podemos observar en la mayoria de las pruebas realizadas los tiempos de ejecución de la Laptop son menores, esto se debe a que al ser un equipo con caracteristicas superiores los procesos ejecutados son más rapidos a diferencia de un servicio en la nube que depende de la red y la configuración que se le dio a este. Esto es lo esperado por lo que podemos decir que los resultados son esperados y en caso de que no ocurriera esto probablemnte sea porque el equipo tiene más procesos en ejcución.
