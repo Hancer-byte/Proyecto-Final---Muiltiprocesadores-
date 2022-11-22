@@ -120,10 +120,10 @@ Las Imágenes que utilicé para esta actividad son las siguientes:
 [![1-1.png](https://i.postimg.cc/wMQf8JLs/1-1.png)](https://postimg.cc/8fsBL7y1)
 ##### Imagen 2.12 Resultado de la imagen convertida a escala de grises (imagen en gran formato)
 
-[![1-2.png](https://i.postimg.cc/G3qVzR7q/1-2.png)](https://postimg.cc/6T4M5kNv)
-##### Imagen 2.13 Resultado de la imagen convertida a escala de grises y rotada (imagen Normal)
-[![1-2.png](https://i.postimg.cc/9FcgP8HP/1-2.png)](https://postimg.cc/7bQNwN6b)
-##### Imagen 2.14 Resultado de la imagen convertida a escala de grisesy rotada(imagen en gran formato)
+[![1-1.png](https://i.postimg.cc/05GP2BC7/1-1.png)](https://postimg.cc/fkb685pb)
+##### Imagen 2.13 Resultado de la imagen convertida a escala de grises y rotada verticalmente (imagen Normal)
+[![1-2.png](https://i.postimg.cc/28zmq7HM/1-2.png)](https://postimg.cc/QVnvw1ZJ)
+##### Imagen 2.14 Resultado de la imagen convertida a escala de grisesy rotada verticalmente (imagen en gran formato)
 
 
 
